@@ -1,0 +1,39 @@
+libraries;
+define;
+
+class{
+	public:
+	 variabel;
+}
+ 
+ fungsi(void){
+	variabel;
+	
+	Initwindow()
+	while loop ketika window open()
+	{
+	if (coalition){value mouseontext = true}
+	if(mouseontext==true){
+		if(turn=="nama"){
+			namanya keupdate
+		}
+		if(turn=="umur")
+			umurnya keupdate
+	
+	}
+	if(pencet tombol space){
+		delete 1 char di depan
+	}
+	}
+	draw()
+	switch()
+	{scene 1:draw input
+	 scene 2:draw hasil
+	}
+	if(pencet space){
+		if(turn = name)turn = age;
+		elseif (turn= age)ganti scene;
+	}
+	
+	}
+}

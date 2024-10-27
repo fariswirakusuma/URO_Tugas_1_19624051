@@ -1,0 +1,5 @@
+buka aplikasi dengan double klick file main.exe
+masukan nama
+masukan umur
+klik enter
+hasil akan muncul
